@@ -95,3 +95,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Feel free to modify the content as needed, especially the repository URL and any additional installation steps that might be necessary.
+
+Author meraj saleheen zaffari
